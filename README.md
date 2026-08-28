@@ -43,18 +43,9 @@ Key Recommendations:
 * Promote top-performing products
 * Target high-revenue customer groups 
 
-Project Structure:
-
-├── data/
-├── notebooks/
-├── sql/
-├── dashboard/
-├── images/
-└── README.md
-
-How to Run
+How to Run:
 
 1. Run the Jupyter Notebook for cleaning and EDA.
 2. Load the cleaned data into MySQL.
 3. Execute the SQL queries.
-4. Open the `.pbix` file in Power BI and refresh the data.
+4. Open the .pbix file in Power BI and refresh the data.
